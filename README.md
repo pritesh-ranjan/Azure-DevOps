@@ -21,7 +21,7 @@ It provides a wide range of services like building virtual machines, data storag
 
 ## Working on Azure Platform
 
-Open https://dev.azure.com on your browser and login with a microsoft account. Afte logging in the first thing we can do is create a new project, by clicking on the 'New Project' button. For first time users of Azure, we have to create an organization first. 
+Open [https://dev.azure.com](https://dev.azure.com) on your browser and login with a microsoft account. Afte logging in the first thing we can do is create a new project, by clicking on the 'New Project' button. For first time users of Azure, we have to create an organization first. 
 <br>
 ![new project by pritesh ranjan](resources/new_project.jpg?raw=true)
 
