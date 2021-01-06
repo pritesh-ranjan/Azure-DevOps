@@ -48,8 +48,17 @@ As we can see in the image above, one can easily add/create epics, features, use
  5. *Dashboards*:  We can see and manage the current state and track the overall progress of our project.
  
 ### <img style="float: left;" src="resources/repos-icon-80.png?raw=true"> Azure Repos
+This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
+This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
+
 ### Azure Test Plans <img align="right" src="resources/test-plans-icon-80.png?raw=true">
+This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
+This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
+
 ### <img align="right" src="resources/artifacts-icon-72.png?raw=true"> Azure Artifacts
+This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
+This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
+
 ### Azure Pipelines
 
 
