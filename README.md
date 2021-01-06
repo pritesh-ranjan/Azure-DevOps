@@ -21,7 +21,7 @@ It provides a wide range of services like building virtual machines, data storag
 
 ## Working on Azure Platform
 
-Open [https://dev.azure.com](https://dev.azure.com) on your browser and login with a microsoft account. Afte logging in the first thing we can do is create a new project, by clicking on the 'New Project' button. For first time users of Azure, we have to create an organization first. 
+Open [https://dev.azure.com](https://dev.azure.com) on your browser and log in with a microsoft account. Afte logging in the first thing we can do is create a new project, by clicking on the 'New Project' button. For first time users of Azure, we have to create an organization first. 
 <br>
 ![new project by pritesh ranjan](resources/new_project.jpg?raw=true)
 
@@ -33,7 +33,7 @@ After creating a new project, we can see buttons for Boards, Repos, Pipelines, T
 <br>
 ## Components of Azure DevOps
 
-### Azure Boards ![image by pritesh ranjan](resources/boards-icon-80.png?raw=true)
+### Azure Boards <img style="float: right;" src="resources/boards-icon-80.png?raw=true">
  It is a Azure service where project managers and developers can create requiremnets, tasks and assign work for the software development projects.
  It has a rich set of capabilities including native support for Scrum and Kanban, customisable dashboards and integrated reporting.
  It can be used to create epics, features, product backlogs, report bugs, etc.
@@ -42,10 +42,10 @@ As we can see in the image above, one can easily add/create epics, features, use
 
  **Key features:**
  1. *Work Items*: Used to track the progress of any work on Azure Boards
- 2. *Boards*: Each project comes with a pre-configured Kanban board for managing the flow of the work. They are highly customisable and allow addition of columns for each team and project.
+ 2. *Boards*: Each project comes with a pre-configured Kanban board for managing the flow of the work. They are highly customizable and allow the addition of columns for each team and project.
  3. *Backlogs*: Helps understand the relationships between workitems and prioritize them accordingly
- 4. *Sprints*: A sprint is a small time window in which one can complete parts of the project, that is certain work items related to the project.
- 5. *Dashboards*:  We can see and manage the current state and track overall progress of our project.
+ 4. *Sprints*: A sprint is a small-time window in which one can complete parts of the project, that is certain work items related to the project.
+ 5. *Dashboards*:  We can see and manage the current state and track the overall progress of our project.
  
 ### Azure Repos
 ### Azure Test Plans
