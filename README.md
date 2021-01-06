@@ -22,10 +22,12 @@ It provides a wide range of services like building virtual machines, data storag
 ## Working on Azure Platform
 
 Open https://dev.azure.com on your browser and login with a microsoft account. Afte logging in the first thing we can do is create a new project, by clicking on the 'New Project' button. For first time users of Azure, we have to create an organization first. 
+<br>
 ![new project by pritesh ranjan](resources/new_project.jpg?raw=true)
 
 Now to create a new project, fill in the project name (any name of our choice) , an optional description and finally project visiiblity, that is public or private. There are some additional settings too, which allow us to select the version control type (default is git) and work item process like agile, etc.
 After creating a new project, we can see buttons for Boards, Repos, Pipelines, Test Plans and Atrefacts. We will discuss this one by one and also do hands-on simultanously.
+<br>
 ![image by pritesh ranjan](resources/inside_project.jpg?raw=true)
 
 <br>
