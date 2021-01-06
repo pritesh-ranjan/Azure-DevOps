@@ -6,7 +6,7 @@ _DevOps_ is the combination of cultural philosophies, practices, and tools that 
 In traditional development approach, there are separate teams for development, testing, deployment and management of the application. And these teams were isolated from each other. But now in DevOps, all these teams work together resulting in faster development and better product.
 Now the developers upload the code into source control and commit it, the testers build and test it. If there are eny defects/failed test cases, the developers can fix it and update the repository. The developers, testers and operations can work together as a team and efficiency is improved. 
 
-## What is Azure?
+## What is Azure? <img align="right" src="resources/azure_logo.jpg?raw=true">
 Azure is a cloud computing platform from Microsoft. It is used by developers, IT professionals and companies to build, deploy, and manage applications.
 It provides a wide range of services like building virtual machines, data storage, cloud hosting, version control, building, testing and deployment of applications to name a few.
 
