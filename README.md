@@ -1,7 +1,8 @@
 # Notes on Azure DevOps
 
 ## What is DevOps?
-_DevOps_ is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity when compared to traritional development practices. [source: aws](https://aws.amazon.com/devops/what-is-devops/)
+_DevOps_ is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity when compared to traritional development practices. [*Source*](https://aws.amazon.com/devops/what-is-devops/)
+<br>
 In traditional development approach, there are separate teams for development, testing, deployment and management of the application. And these teams were isolated from each other. But now in DevOps, all these teams work together resulting in faster development and better product.
 Now the developers upload the code into source control and commit it, the testers build and test it. If there are eny defects/failed test cases, the developers can fix it and update the repository. The developers, testers and operations can work together as a team and efficiency is improved. 
 
@@ -18,16 +19,36 @@ It provides a wide range of services like building virtual machines, data storag
  5. **Flexible development**: There is no specific programming language/ development platform needed to work with Azure. We can use JAVA, maven, Python, Machine learning, JavaScript, etc to develop our application.
  6. **Usage is measurable**: Every thing used in Azure, like how usage time, computation, etc are measurable.
 
+## Working on Azure Platform
+
+Open https://dev.azure.com on your browser and login with a microsoft account. Afte logging in the first thing we can do is create a new project, by clicking on the 'New Project' button. For first time users of Azure, we have to create an organization first. 
+![new project by pritesh ranjan](resources/new_project.jpg?raw=true)
+
+Now to create a new project, fill in the project name (any name of our choice) , an optional description and finally project visiiblity, that is public or private. There are some additional settings too, which allow us to select the version control type (default is git) and work item process like agile, etc.
+After creating a new project, we can see buttons for Boards, Repos, Pipelines, Test Plans and Atrefacts. We will discuss this one by one and also do hands-on simultanously.
+![image by pritesh ranjan](resources/inside_project.jpg?raw=true)
+
+<br>
 ## Components of Azure DevOps
 
 ### Azure Boards
- It is a Azure service where project managers and developers can create requiremnets, tasks and assign work for the software development projects
+ It is a Azure service where project managers and developers can create requiremnets, tasks and assign work for the software development projects.
+ It has a rich set of capabilities including native support for Scrum and Kanban, customisable dashboards and integrated reporting.
+ It can be used to create epics, features, product backlogs, report bugs, etc.
+![image by pritesh ranjan](resources/azure_boards.jpg?raw=true)
+As we can see in the image above, one can easily add/create epics, features, user stories, bugs, etc through simple clicks.
+
+ **Key features:**
+ 1. *Work Items*: Used to track the progress of any work on Azure Boards
+ 2. *Boards*: Each project comes with a pre-configured Kanban board for managing the flow of the work. They are highly customisable and allow addition of columns for each team and project.
+ 3. *Backlogs*: Helps understand the relationships between workitems and prioritize them accordingly
+ 4. *Sprints*: A sprint is a small time window in which one can complete parts of the project, that is certain work items related to the project.
+ 5. *Dashboards*:  We can see and manage the current state and track overall progress of our project.
+ 
 ### Azure Repos
 ### Azure Test Plans
 ### Azure Artifacts
 ### Azure Pipelines
 
 
-## Working on Azure Platform
 
-Open https://dev.azure.com on your browser and login with a microsoft account. 
