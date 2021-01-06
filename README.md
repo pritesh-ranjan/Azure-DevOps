@@ -33,7 +33,7 @@ After creating a new project, we can see buttons for Boards, Repos, Pipelines, T
 <br>
 ## Components of Azure DevOps
 
-### Azure Boards ![image by pritesh ranjan](resources/boards-icon-80.png.jpg?raw=true)
+### Azure Boards ![image by pritesh ranjan](resources/boards-icon-80.png?raw=true)
  It is a Azure service where project managers and developers can create requiremnets, tasks and assign work for the software development projects.
  It has a rich set of capabilities including native support for Scrum and Kanban, customisable dashboards and integrated reporting.
  It can be used to create epics, features, product backlogs, report bugs, etc.
