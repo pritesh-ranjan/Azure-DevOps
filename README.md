@@ -33,7 +33,7 @@ After creating a new project, we can see buttons for Boards, Repos, Pipelines, T
 <br>
 ## Components of Azure DevOps
 
-### Azure Boards <img style="float: right;" src="resources/boards-icon-80.png?raw=true">
+### Azure Boards <img style="float: left;" src="resources/boards-icon-80.png?raw=true">
  It is a Azure service where project managers and developers can create requiremnets, tasks and assign work for the software development projects.
  It has a rich set of capabilities including native support for Scrum and Kanban, customisable dashboards and integrated reporting.
  It can be used to create epics, features, product backlogs, report bugs, etc.
@@ -47,9 +47,9 @@ As we can see in the image above, one can easily add/create epics, features, use
  4. *Sprints*: A sprint is a small-time window in which one can complete parts of the project, that is certain work items related to the project.
  5. *Dashboards*:  We can see and manage the current state and track the overall progress of our project.
  
-### Azure Repos
-### Azure Test Plans
-### Azure Artifacts
+### <img style="float: left;" src="resources/repos-icon-80.png?raw=true"> Azure Repos
+### Azure Test Plans <img align="right" src="resources/test-plans-icon-80.png?raw=true">
+### <img align="right" src="resources/artifacts-icon-72.png?raw=true"> Azure Artifacts
 ### Azure Pipelines
 
 
