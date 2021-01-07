@@ -1,8 +1,8 @@
 # Notes on Azure DevOps
 
 ## What is DevOps?
-_DevOps_ is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity when compared to traritional development practices. [*Source*](https://aws.amazon.com/devops/what-is-devops/)
-DevOps fills the gap between **Dev**elopment and **Op**eration**s**.
+_DevOps_ fills the gap between **Dev**elopment and **Op**eration**s**.
+It is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity when compared to traritional development practices. [*Source*](https://aws.amazon.com/devops/what-is-devops/)
 <br>
 In traditional development approach, there are separate teams for development, testing, deployment and management of the application. And these teams work in an isolated manner. But now with the advent of DevOps, all these teams work together in entire SDLC to ensure the quality of the product and efficient product development.
 The developers upload the code into source control, and  the testers build and test it. If there are eny defects/failed test cases, the developers can fix it and update the repository. The developers, testers and operations can work together and efficiency is improved. 
