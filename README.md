@@ -2,9 +2,11 @@
 
 ## What is DevOps?
 _DevOps_ is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity when compared to traritional development practices. [*Source*](https://aws.amazon.com/devops/what-is-devops/)
+DevOps fills the gap between **Dev**elopment and **Op**eration**s**.
 <br>
-In traditional development approach, there are separate teams for development, testing, deployment and management of the application. And these teams were isolated from each other. But now in DevOps, all these teams work together resulting in faster development and better product.
-Now the developers upload the code into source control and commit it, the testers build and test it. If there are eny defects/failed test cases, the developers can fix it and update the repository. The developers, testers and operations can work together as a team and efficiency is improved. 
+In traditional development approach, there are separate teams for development, testing, deployment and management of the application. And these teams work in an isolated manner. But now with the advent of DevOps, all these teams work together in entire SDLC to ensure the quality of the product and efficient product development.
+The developers upload the code into source control, and  the testers build and test it. If there are eny defects/failed test cases, the developers can fix it and update the repository. The developers, testers and operations can work together and efficiency is improved. 
+
 
 ## What is Azure? <img align="right" src="resources/azure_logo.jpg?raw=true">
 Azure is a cloud computing platform from Microsoft. It is used by developers, IT professionals and companies to build, deploy, and manage applications.
@@ -60,6 +62,3 @@ This is line for azure repo. This is line for azure repo. This is line for azure
 This is line for azure repo. This is line for azure repo. This is line for azure repo. This is line for azure repo. 
 
 ### Azure Pipelines
-
-
-
